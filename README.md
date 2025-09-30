@@ -29,11 +29,6 @@
 - Полная или инкрементальная загрузка.
 - Контроль качества загрузки.
 
-**Инструменты:**
-- ETL-платформы: Informatica, SSIS, Talend, Pentaho, NiFi.
-- Облачные решения: AWS Glue, Google Dataflow, Azure Data Factory.
-- Big Data-платформы: **Apache Spark** (с PySpark API).
-
 **Apache Spark (PySpark):**
 - Распределённая обработка больших данных.
 - API DataFrame и SQL.
